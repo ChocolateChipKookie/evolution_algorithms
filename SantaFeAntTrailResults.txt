@@ -1,0 +1,1 @@
+Prog3(Prog3(Left, IfFoodAhead(Prog2(Move, Right), Left), Left), IfFoodAhead(Move, Left), Move)

@@ -1,0 +1,11 @@
+FunctionNodes: +, -, *, /, sin, cos, sqrt, log, exp
+ConstantRange: -5, 5
+PopulationSize: 100
+TournamentSize: 7
+CostEvaluations: 100000
+CrossoverPossibility: 0.4
+MutationProbability: 0.4
+ReproductionProbability: 0.3
+MaxTreeDepthStart: 7
+MaxTreeDepth: 25
+MaxTreeSize: 100
